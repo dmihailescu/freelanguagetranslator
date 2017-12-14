@@ -12,6 +12,7 @@ function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn
 (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
 </script>
 </div>
+
 <div class="wikidoc">
 <p><strong>Project Description</strong><br>
 This is a desktop language translator application. It allows the import for several popular subtitle and document formats.
